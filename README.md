@@ -1,5 +1,8 @@
 # Titanic---Machine-Learning-from-Disaster-IA-CFE
 ## Modelo de IA simple para la predicción de posibles supervivientes del Titanic
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![200w](https://github.com/user-attachments/assets/48a6993c-6408-4bfa-a7cd-0f881bad3db0)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Este proyecto presenta un modelo de inteligencia artificial para predecir la supervivencia de los pasajeros del Titanic. Se utiliza un enfoque de entrenamiento de K-Nearest Neighbors, en el que el modelo se entrena con un conjunto de datos histórico para identificar patrones y relaciones entre las características de los pasajeros y su destino final.
 
